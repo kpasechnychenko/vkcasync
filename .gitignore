@@ -6,3 +6,5 @@
 /.idea/vcs.xml
 /.idea/vkcasync.iml
 /.idea/workspace.xml
+/vkcasync.db
+*.pyc
