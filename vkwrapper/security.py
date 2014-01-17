@@ -2,7 +2,7 @@ __author__ = 'kpasech'
 
 from config import Config
 from storage import Storage
-from domain.exceptions.securityexception import SecurityException
+from domain.exceptions import SecurityException
 from subprocess import check_output, CalledProcessError
 from os import getcwd
 import json

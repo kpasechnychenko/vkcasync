@@ -1,8 +1,5 @@
-__author__ = 'kpasech'
+from vkwrapper.wrapper import Wrapper
 
 
-from kivy.network.urlrequest import UrlRequest
-
-
-class Music:
+class Music(Wrapper):
     pass

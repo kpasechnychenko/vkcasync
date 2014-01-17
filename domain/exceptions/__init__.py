@@ -1,1 +1,2 @@
-__author__ = 'kpasech'
+from domain.exceptions.securityexception import SecurityException
+from domain.exceptions.wrapperexception import WrapperException
