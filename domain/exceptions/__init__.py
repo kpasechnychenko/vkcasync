@@ -1,3 +1,4 @@
 from domain.exceptions.securityexception import SecurityException
 from domain.exceptions.wrapperexception import WrapperException
 from domain.exceptions.vkMusicException import VkMusicException
+from domain.exceptions.playerexception import PlayerException
